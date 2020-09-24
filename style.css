@@ -5,3 +5,9 @@ h1{
 .nav-link{
     color: rgb(107, 103, 103);
 }
+
+.my-pic {
+    max-width: 250px;
+    max-height: 250px
+    float: right;
+}
