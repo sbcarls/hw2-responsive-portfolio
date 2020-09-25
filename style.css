@@ -9,5 +9,9 @@ h1{
 .my-pic {
     max-width: 250px;
     max-height: 250px
-    float: right;
 }
+
+body {
+    background: url(grass-sky.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
