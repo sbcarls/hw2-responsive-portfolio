@@ -16,6 +16,9 @@ body {
     background-size: cover;
   }
 
-.card {
-   position: absolute;
+container {
+  display: flex;
+  justify-content: center;
+  flex-direction:row;
+
 }
