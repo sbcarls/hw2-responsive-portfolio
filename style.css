@@ -1,9 +1,7 @@
-.nav-name{
-    color: rgb(73, 214, 214);
-}
 
 .nav-link{
     color: rgb(107, 103, 103);
+    font-family: 'Domine', serif;
 }
 
 .my-pic {
@@ -19,6 +17,10 @@ body {
 container {
   display: flex;
   justify-content: center;
-  flex-direction:row;
-
+  flex-direction: row;
+  margin-top: 150px
+  
 }
+
+.navbar-brand {
+    font-family: 'Domine', serif;
