@@ -21,6 +21,7 @@ body {
     font-family: 'Domine', serif;
   }
 
+  /* Cards */
 container {
   display: flex;
   justify-content: center;
@@ -30,7 +31,7 @@ container {
   
 }
 
-
+/* Contact Card */
 .submit-btn {
     display: inline-block;
 }
@@ -42,8 +43,4 @@ container {
 #exampleFormControlTextarea1 {
     border-color: rgb(38, 199, 199);
     
-}
-
-.message {
-    text-align: center;
 }
