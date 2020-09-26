@@ -4,6 +4,11 @@
     font-family: 'Domine', serif;
 }
 
+.navbar-brand {
+    font-family: 'Domine', serif;
+
+}
+
 .my-pic {
     max-width: 250px;
     max-height: 250px
@@ -12,6 +17,8 @@
 body {
     background: url(grass-sky.jpg) no-repeat center fixed;
     background-size: cover;
+    color: rgb(107, 103, 103);
+    font-family: 'Domine', serif;
   }
 
 container {
@@ -22,10 +29,7 @@ container {
   
 }
 
-.navbar-brand {
-    font-family: 'Domine', serif;
 
-}
 .submit-btn {
     display: inline-block;
 }
