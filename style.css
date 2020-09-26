@@ -27,9 +27,23 @@ container {
   flex-direction: row;
   margin-top: 150px
   
+  
 }
 
 
 .submit-btn {
     display: inline-block;
+}
+
+#exampleFormControlInput1 {
+    border-color: rgb(38, 199, 199);
+}
+
+#exampleFormControlTextarea1 {
+    border-color: rgb(38, 199, 199);
+    
+}
+
+.message {
+    text-align: center;
 }
