@@ -24,3 +24,8 @@ container {
 
 .navbar-brand {
     font-family: 'Domine', serif;
+
+}
+.submit-btn {
+    display: inline-block;
+}
